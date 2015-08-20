@@ -1,3 +1,3 @@
-# uC-OS-II
+# uC/OS-II
 uC/OS-II for SN32F700
 将uC/OS-II移植至SN32F700
